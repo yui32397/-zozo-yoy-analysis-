@@ -48,3 +48,19 @@ df_2026['revenue_growth'] = (((1 + df_2026['active_buyers_growth']/100) * (1 + d
 # 先輩お墨付きの厳密なユニットテスト
 assert df_2026 is not None, "[ERROR] df_2026 が正常に生成されませんでした。"
 assert 'revenue_growth' in df_2026.columns, "[ERROR] 要因分解計算カラムが見つかりません。"
+---
+
+## 🚀 4. 誰でも1秒で再現できる実行手順（How to Run）
+本プロジェクトは完全な再現性を担保しています。ローカル環境またはGoogle Colabで以下の手順を実行することで、データ加工から2.3倍爆大グラフの描画までが完全自動で再現されます。
+
+### 💻 ローカル環境でのセットアップ
+```bash
+# 1. 仮想環境の作成と有効化
+python -m venv .venv
+source .venv/bin/activate   # Windowsの場合: .venv\Scripts\activate
+
+# 2. 依存パッケージの一括インストール
+pip install -r requirements.txt
+
+# 3. Jupyter環境の起動
+jupyter lab
