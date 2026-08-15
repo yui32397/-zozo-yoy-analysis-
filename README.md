@@ -3,6 +3,7 @@
 ![Unofficial](https://img.shields.io/badge/Status-Unofficial%20/%20Portfolio-red?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data-Simulated%20/%20Dummy-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+<img width="1170" height="1748" alt="image" src="https://github.com/user-attachments/assets/e4b76d6a-1362-456f-b09d-0563888a8ec5" />
 
 ---
 
