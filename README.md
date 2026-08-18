@@ -58,7 +58,7 @@
 ## 📊 🌟 Looker Studio BIダッシュボード画面（閲覧用リンク）
 
 > 📊 **[Looker Studioで可視化した実際のダッシュボード画面はこちら]**
-> **[https://datastudio.google.com/u/0/reporting/f54ad454-d84c-4b4c-9703-855b3dde3c02/page/LmX6F]**
+> **[https://datastudio.google.com/u/0/reporting/f54ad454-d84c-4b4c-9703-855b3dde3c02/page/LmX6F]** 
 > ※上記リンク（Looker Studio）をクリックすると、上記の要因分解を経営陣や现场のマーケターが毎日1秒でスキャンできるようビルドされた、実際の美しいWebダッシュボード画面を直接閲覧できます。
 
 ---
